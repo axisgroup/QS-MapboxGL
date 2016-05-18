@@ -1,0 +1,7 @@
+{
+	"name": "MapboxGL",
+	"description": "A mapping extension using the Mapbox GL JS library",
+	"type": "visualization",
+	"version": "1.0.0",
+	"author": "Speros Kokenes"
+}
