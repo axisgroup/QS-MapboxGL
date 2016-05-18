@@ -4,7 +4,7 @@ The MapboxGL extension is a small starter implementation of the [Mapbox GL JS] m
 
 This extension implements a point layer sized by a measure, allowing Qlik Sense users to load in their data points and plot them on a map as circles. 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://raw.githubusercontent.com/axisgroup/QS-MapboxGL/master/examples/mapbox-gl-ext-sm.gif)
 
 The following features can be customized from the properties panel:
 - Mapbox Access Token - your API token that can be received for free from Mapbox
