@@ -244,7 +244,7 @@ define([
                 }
             },
             resize: function() {
-                map.resize();
+                if(init) map.resize();
             }
         };
 
