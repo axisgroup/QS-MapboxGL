@@ -6,7 +6,7 @@ This extension implements a point layer sized by a measure, allowing Qlik Sense 
 
 [Check out the demo.](http://sense.axisgroup.com/sense/app/6f716fc6-5d15-4315-a6cd-cdfa4f0a2ba8/sheet/PnL/state/analysis)
 
-[Download the extension here.](http://viz.axisgroup.com/extensions/QS-mapboxgl.zip)
+[Download the extension here.](http://viz.axisgroup.com/extensions/QS-MapboxGL.zip)
 
 ![GitHub Logo](https://raw.githubusercontent.com/axisgroup/QS-MapboxGL/master/examples/mapbox-gl-ext-sm.gif)
 
