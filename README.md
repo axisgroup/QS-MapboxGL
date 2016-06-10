@@ -17,6 +17,8 @@ The following features can be customized from the properties panel:
 - Circle Size - the range of size from biggest to smallest circle based on the measure
 - Map Style - the style of the background map rendered, based on map stylesheets provided by Mapbox
 
+Note: this extension will NOT work in the Qlik Sense Desktop client, as QSD doesn't support WebGL. However, you can still use this extension with Qlik Sense Desktop if you do your development/usage through a web browser. Just open QSD, then navigate to "localhost:4848/hub" in a browser to use it there.
+
 
 
    [Mapbox Gl JS]: <https://www.mapbox.com/mapbox-gl-js/api/>
